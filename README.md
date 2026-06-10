@@ -3,8 +3,8 @@ Producto elaborado fisicamente:
 
 
 Etiquetado:
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/284715077/603130174-79a8824f-4527-4246-b1a5-4ac10a927eea.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260610%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260610T185120Z&X-Amz-Expires=300&X-Amz-Signature=0c01e05698661e9347a9d2357a40c9f51d4dda6840c46699206156761c1a3331&X-Amz-SignedHeaders=host&response-content-type=image%2Fjpeg"  width="300">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/284715077/603130174-79a8824f-4527-4246-b1a5-4ac10a927eea.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260610%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260610T233607Z&X-Amz-Expires=300&X-Amz-Signature=507bd2f00e04a4a6c218cc21af109937f23eda7dd76d01f3d5ced00021195ff4&X-Amz-SignedHeaders=host&response-content-type=image%2Fjpeg"  width="300">
 
 
 Empaque y embalaje:
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/284715077/603130193-116515a9-f894-427f-9f04-3ce924d35cfd.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260610%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260610T185208Z&X-Amz-Expires=300&X-Amz-Signature=b63029116e678b909f442d05dbf998d0938074b70a17064654dfe0a35e88e8d9&X-Amz-SignedHeaders=host&response-content-type=image%2Fjpeg"  width="300">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/284715077/603130193-116515a9-f894-427f-9f04-3ce924d35cfd.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260610%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260610T233508Z&X-Amz-Expires=300&X-Amz-Signature=27f1e13b5cc53e3211bc7719df5537f2d1b2b8851a1b5bf246bb022a7b8b077a&X-Amz-SignedHeaders=host&response-content-type=image%2Fjpeg"  width="300">
