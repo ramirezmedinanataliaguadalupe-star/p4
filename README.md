@@ -1,5 +1,5 @@
 Producto elaborado fisicamente:
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/284715077/603130194-1492bfbe-8a32-42a6-8b18-fa216a972d8a.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260610%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260610T185718Z&X-Amz-Expires=300&X-Amz-Signature=f0f5ec714f18dd377b6451e579e42607620fe599f97684c4580c5934cb203aa6&X-Amz-SignedHeaders=host&response-content-type=image%2Fjpeg"  width="300">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/284715077/603130194-1492bfbe-8a32-42a6-8b18-fa216a972d8a.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260610%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260610T234030Z&X-Amz-Expires=300&X-Amz-Signature=e790d4bc7c637b96cefc79e9f35843be207d3804ea8626396e80cd9d95438579&X-Amz-SignedHeaders=host&response-content-type=image%2Fjpeg"  width="300">
 
 
 Etiquetado:
