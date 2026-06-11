@@ -11,3 +11,7 @@ Etiquetado:
 Empaque y embalaje:
 
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/284715077/603130193-116515a9-f894-427f-9f04-3ce924d35cfd.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260610%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260610T233508Z&X-Amz-Expires=300&X-Amz-Signature=27f1e13b5cc53e3211bc7719df5537f2d1b2b8851a1b5bf246bb022a7b8b077a&X-Amz-SignedHeaders=host&response-content-type=image%2Fjpeg" width="300">
+
+<a href="https://ramirezmedinanataliaguadalupe-star.github.io/proyecto-final-/" class="volver">
+Volver al inicio
+</a>
